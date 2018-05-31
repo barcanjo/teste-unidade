@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: teste-unidade
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Filah-01
+Implementation-Vendor-Id: br.com.alura.mock
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://projects.spring.io/spring-boot/teste-unidad
+ e/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
