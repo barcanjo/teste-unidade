@@ -1,2 +1,2 @@
 # teste-unidade
-Testes de unidade Java utiliza JUnit e Mockito
+Testes de unidade Java utilizando JUnit e Mockito.
